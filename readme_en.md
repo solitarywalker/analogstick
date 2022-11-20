@@ -21,4 +21,4 @@ I made footprints which based on these parts.
 
 # About Licenses
 
-This library is licensed Apache License 2.0.
+This library is licensed Solderpad Hardware License v2.1.

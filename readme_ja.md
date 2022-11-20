@@ -21,4 +21,4 @@
 
 # 1. ライセンスについて
 
-Apache License 2.0 で公開しています。
+Solderpad Hardware License v2.1 で公開しています。
