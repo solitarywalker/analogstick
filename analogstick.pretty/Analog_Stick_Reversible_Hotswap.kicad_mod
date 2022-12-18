@@ -2,11 +2,11 @@
   (layer "F.Cu")
   (tedit 0)
   (attr through_hole)
-  (fp_text reference " " (at 0 -0.5 unlocked) (layer "F.SilkS")
+  (fp_text reference " " (at 0 -0.5 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ff2cf66d-1f2e-4670-9153-0e2095394fb8)
   )
-  (fp_text value " " (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value " " (at 0 1 unlocked) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c2186ae3-7817-4d33-b6f7-d58af1b4d172)
   )
